@@ -13,7 +13,7 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img aling="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img aling="center" alt="Git" height="25" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
 <div>

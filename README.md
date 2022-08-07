@@ -1,4 +1,4 @@
-### Olá, visitante! Eu sou oliverfaustino, um estudante de tecnologias. 👋
+### Olá, visitante! É sempre bom gente nova. O que lhe trás aqui? 👋
 
 ##
 
